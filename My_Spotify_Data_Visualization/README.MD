@@ -1,4 +1,4 @@
-# My Spotify Data Visualization using Tableau
+# Spotify Data Visualization using Tableau
 
 
 ## Process

@@ -1,7 +1,7 @@
 # Analyze Movie Features Correlation to Gross
 
 ## 🔸 Dataset Source: 
-[Kaggle](https://www.kaggle.com/danielgrijalvas/movies)
+[Kaggle Movie Industry: Four decades of movies](https://www.kaggle.com/danielgrijalvas/movies)
 
 ## 🔸 Objective: 
 Find the correlated features to gross or revenue of the movie

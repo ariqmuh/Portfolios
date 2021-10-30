@@ -1,4 +1,4 @@
-# Portfolios of Muhammad Ariq Budipraja
+<h1 align="center"> **Portfolios of Ariq** </h1> 
 
 Hello, I'm Ariq and here are some of the projects I've worked on in the field of data analysis:
 ## 🔸 Customer Segmentation based on Customer Behaviour

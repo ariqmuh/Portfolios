@@ -7,4 +7,4 @@ Cleaned and preprocess data using Python in [Jupyter Notebook](https://github.co
 Visualizing and created the dashboard in [Tableau](https://public.tableau.com/app/profile/muhammad.ariq.budipraja11/viz/SpotifyAriq/AriqsSpotifyRecord)         
 
 
-Inspired by: Visualizing Spotify Data with Python and Tableau - Anne Bode -> Medium[https://towardsdatascience.com/visualizing-spotify-data-with-python-tableau-687f2f528cdd]
+Inspired by: Visualizing Spotify Data with Python and Tableau - Anne Bode -> [Medium](https://towardsdatascience.com/visualizing-spotify-data-with-python-tableau-687f2f528cdd)

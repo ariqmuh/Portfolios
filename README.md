@@ -9,4 +9,10 @@ Hello, I'm Ariq and here are some of the projects I've worked on in the field of
 
 For the full documentation check this link: [Olist e-commerce Customer Segmentation](https://github.com/ariqmuh/DataWarrior_JC_DS_VL_01_FinalProject)
 
+## 2. My Spotify Data Visualization using Tableau
+- I got inspired to do this project from [Anne Bode - Medium](https://towardsdatascience.com/visualizing-spotify-data-with-python-tableau-687f2f528cdd)
+- Pre-processing the dataset in Jupyter Notebook and visualizing using Tableau.
+
+For the full documentation check this link: [Spotify Data Visualization using Tableau](https://github.com/ariqmuh/Portfolios/tree/main/My_Spotify_Data_Visualization)
+For the Tableau dashboard check this link: [Spotify Record Dashboard](https://public.tableau.com/app/profile/muhammad.ariq.budipraja11/viz/SpotifyAriq/AriqsSpotifyRecord)
 

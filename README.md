@@ -8,11 +8,18 @@ Hello, I'm Ariq and here are some of the projects I've worked on in the field of
 - This project aims to segment the customers based on their shopping behaviour to target its customers efficiently and to provide marketing recommendations for each segment
 - Using RFM (Recency, Frequency, and Monetary) Segmentation, K-Means Clustering, and Gaussian Clustering.
 
-For the full documentation check this link: [Olist e-commerce Customer Segmentation](https://github.com/ariqmuh/DataWarrior_JC_DS_VL_01_FinalProject)
+![image](https://user-images.githubusercontent.com/82768391/139526041-8aeaa8a0-9e8f-4c8d-8de3-17815860adee.png)
+![image](https://user-images.githubusercontent.com/82768391/139526057-e5d01939-4ae8-47ac-b71e-40bfd9e68251.png)
+
+For the full documentation check this link: [Olist e-commerce Customer Segmentation](https://github.com/ariqmuh/DataWarrior_JC_DS_VL_01_FinalProject)       
+For the Tableau dashboard check this link: [Olist Customer Segmentation Dashboard](https://public.tableau.com/app/profile/muhammad.ariq.budipraja11/viz/OlistCustomerSegmentation/OlistRFMDashboard)
+
 
 ## 🔸 My Spotify Data Visualization using Tableau
 - I got inspired to do this project from [Anne Bode - Medium](https://towardsdatascience.com/visualizing-spotify-data-with-python-tableau-687f2f528cdd)
 - Pre-processing the dataset in Jupyter Notebook and visualizing using Tableau.
+
+![image](https://user-images.githubusercontent.com/82768391/139526015-558e30b3-9c3a-4315-9a1b-216bd805fc9e.png)
 
 For the full documentation check this link: [Spotify Data Visualization using Tableau](https://github.com/ariqmuh/Portfolios/tree/main/My_Spotify_Data_Visualization)        
 For the Tableau dashboard check this link: [Spotify Record Dashboard](https://public.tableau.com/app/profile/muhammad.ariq.budipraja11/viz/SpotifyAriq/AriqsSpotifyRecord)

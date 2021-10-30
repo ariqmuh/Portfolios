@@ -1,6 +1,7 @@
 <h1 align="center"> Portfolios of Ariq </h1> 
+________
 
-<div align="center"> Hello, I'm Ariq and here are some of the projects I've worked on in the field of data analysis: </div>
+ Hello, I'm Ariq and here are some of the projects I've worked on in the field of data analysis: 
 ## 🔸 Customer Segmentation based on Customer Behaviour
 - This project is my final project in Purwadhika Data Science & Machine Learning - Job Connector.
 - Dataset source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce/tasks)

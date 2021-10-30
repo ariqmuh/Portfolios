@@ -1,7 +1,6 @@
 <h1 align="center"> Portfolios of Ariq </h1> 
-________
 
- Hello, I'm Ariq and here are some of the projects I've worked on in the field of data analysis: 
+Hello, I'm Ariq and here are some of the projects I've worked on in the field of data analysis: 
 ## 🔸 Customer Segmentation based on Customer Behaviour
 - This project is my final project in Purwadhika Data Science & Machine Learning - Job Connector.
 - Dataset source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce/tasks)
@@ -15,7 +14,7 @@ ________
 For the full documentation check this link: [Olist e-commerce Customer Segmentation](https://github.com/ariqmuh/DataWarrior_JC_DS_VL_01_FinalProject)       
 For the Tableau dashboard check this link: [Olist Customer Segmentation Dashboard](https://public.tableau.com/app/profile/muhammad.ariq.budipraja11/viz/OlistCustomerSegmentation/OlistRFMDashboard)
 
-
+___________
 ## 🔸 My Spotify Data Visualization using Tableau
 - I got inspired to do this project from [Anne Bode - Medium](https://towardsdatascience.com/visualizing-spotify-data-with-python-tableau-687f2f528cdd)
 - Pre-processing the dataset in Jupyter Notebook and visualizing using Tableau.
@@ -25,12 +24,14 @@ For the Tableau dashboard check this link: [Olist Customer Segmentation Dashboar
 For the full documentation check this link: [Spotify Data Visualization using Tableau](https://github.com/ariqmuh/Portfolios/tree/main/My_Spotify_Data_Visualization)        
 For the Tableau dashboard check this link: [Spotify Record Dashboard](https://public.tableau.com/app/profile/muhammad.ariq.budipraja11/viz/SpotifyAriq/AriqsSpotifyRecord)
 
+____________
 ## 🔸 Analyze Movie Features Correlation to Revenue of the Movie
 - The objective of this project is to find the correlated features to gross or revenue of the movie
 - Dataset source: [Kaggle Movie Industry: Four decades of movies](https://www.kaggle.com/danielgrijalvas/movies)
 
 For the full documentation check this link: [Movie Features Correlation](https://github.com/ariqmuh/Portfolios/tree/main/Movie_Features_Correlation)
 
+____________
 ## 🔸 Customer Segmentation using RFM and K-Means Clustering
 - This project is the development from Purwadhika Final Project by focusing on RFM features and K-Means Clustering algorithm.
 - Dataset source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce/tasks)

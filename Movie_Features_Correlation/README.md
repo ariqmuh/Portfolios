@@ -1,4 +1,4 @@
-# Analyze Movie Features Correlation to Gross
+# Analyze Movie Features Correlation to Revenue of the Movie
 
 ## 🔸 Dataset Source: 
 [Kaggle Movie Industry: Four decades of movies](https://www.kaggle.com/danielgrijalvas/movies)

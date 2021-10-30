@@ -2,7 +2,7 @@
 
 
 ## Process
-I got my data from [here](https://www.spotify.com/id/account/privacy/), using my Spotify account.       
+I got the dataset from [here](https://www.spotify.com/id/account/privacy/), using my Spotify account.       
 Cleaned and preprocess data using Python in [Jupyter Notebook](https://github.com/ariqmuh/Portfolios/blob/main/My_Spotify_Data_Visualization/my_spotify_data.ipynb)       
 Visualizing and created the dashboard in [Tableau](https://public.tableau.com/app/profile/muhammad.ariq.budipraja11/viz/SpotifyAriq/AriqsSpotifyRecord)         
 

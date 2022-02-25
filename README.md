@@ -1,6 +1,6 @@
 <h1 align="center"> Portfolios of Ariq </h1> 
 
-Hello, I'm Ariq and here are some of the projects I've worked on in the field of data analysis: 
+Hello, I'm Ariq and here are some of the projects I've worked on: 
 ## 🔸 Customer Segmentation based on Customer Behaviour
 - This project is my final project in Purwadhika Data Science & Machine Learning - Job Connector.
 - Dataset source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce/tasks)
@@ -13,6 +13,18 @@ Hello, I'm Ariq and here are some of the projects I've worked on in the field of
 
 For the full documentation check this link: [Olist e-commerce Customer Segmentation](https://github.com/ariqmuh/DataWarrior_JC_DS_VL_01_FinalProject)       
 For the Tableau dashboard check this link: [Olist Customer Segmentation Dashboard](https://public.tableau.com/app/profile/muhammad.ariq.budipraja11/viz/OlistCustomerSegmentation/OlistRFMDashboard)
+
+___________
+## 🔸 Superstore Sales Dashboard using Google Data Studio
+- This project is my final project in Business Intelligent Analyst Course at Binar Academy.
+- Dataset source : [Superstore Dataset](https://www.kaggle.com/bravehart101/sample-supermarket-dataset)
+- I worked at this project as a team. We also made the Business Requirement Document (BRD).
+- Result: A dashboard that included key metrics, chart visualization, and filter feature.
+
+![Dashboard Page 1](https://user-images.githubusercontent.com/82768391/155721491-2680b38f-c034-4604-8c2d-2ceda60fcc24.png)
+![Dashboard Page 2](https://user-images.githubusercontent.com/82768391/155721557-7cb37543-76f8-4e56-8fbe-7c3b01a9bbcc.png)
+
+For the Google Data Studio dashboard check this link: [Superstore Sales Dashboard](https://datastudio.google.com/reporting/1ff4c943-6e43-49a6-a6bc-0a286e4638b5/page/hrjkC)
 
 ___________
 ## 🔸 My Spotify Data Visualization using Tableau
@@ -33,7 +45,7 @@ For the full documentation check this link: [Movie Features Correlation](https:/
 
 ____________
 ## 🔸 Customer Segmentation using RFM and K-Means Clustering
-- This project is the development from Purwadhika Final Project by focusing on RFM features and K-Means Clustering algorithm.
+- This project is the development version from Purwadhika Final Project by focusing on RFM features and K-Means Clustering algorithm.
 - Dataset source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce/tasks)
 - Result: Four segmentation of customers -> Best Customers, Loyal Customers, New Customers, and Lost Customers.
 

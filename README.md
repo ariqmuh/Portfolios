@@ -31,10 +31,10 @@ ___________
 - I got inspired to do this project from [Anne Bode - Medium](https://towardsdatascience.com/visualizing-spotify-data-with-python-tableau-687f2f528cdd)
 - Pre-processing the dataset in Jupyter Notebook and visualizing using Tableau.
 
-![Spotify Dashboard](https://user-images.githubusercontent.com/82768391/139526015-558e30b3-9c3a-4315-9a1b-216bd805fc9e.png "Spotify Dashboard")
-
 For the full documentation check this link: [Spotify Data Visualization using Tableau](https://github.com/ariqmuh/Portfolios/tree/main/My_Spotify_Data_Visualization)        
 For the Tableau dashboard check this link: [Spotify Record Dashboard](https://public.tableau.com/app/profile/muhammad.ariq.budipraja11/viz/SpotifyAriq/AriqsSpotifyRecord)
+
+![Spotify Dashboard](https://user-images.githubusercontent.com/82768391/139526015-558e30b3-9c3a-4315-9a1b-216bd805fc9e.png "Spotify Dashboard")
 
 ____________
 ## 🔸 Analyze Movie Features Correlation to Revenue of the Movie
